@@ -1,3 +1,19 @@
+**Zare 1.0.1** is the version planned for release on Google Play. It brings major improvements to all decoders and reception, along with new features.
+
+If you’d like early access, join the test:
+
+1. Join the [Zare testers group](https://groups.google.com/g/zare-testers).
+2. Open the [testing page](https://play.google.com/apps/testing/dev.carpathian.sdr) and click **Become a tester**.
+3. [Install Zare from Google Play](https://play.google.com/store/apps/details?id=dev.carpathian.sdr).
+
+Use the **same Google account** for all three steps and your phone’s Play Store.
+
+Please **keep Zare installed and remain enrolled for at least 14 consecutive days**. Try it during that time and share any feedback or problems you find.
+
+The source code will be released after the app is published on Google Play. Thanks for testing!
+
+---
+
 # Zare SDR
 
 **Zare** (ZAH-reh, Romanian for “horizon”) is a free, open-source Android SDR receiver. Connect a supported USB radio to listen, view the spectrum and waterfall, and decode signals. Local recordings can also be played without a receiver.
